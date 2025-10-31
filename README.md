@@ -1,5 +1,3 @@
-# BRYTSERC – Speech Emotion Recognition
-
 Repository for the **BRYTSERC** dataset for speech emotion recognition.
 
 ## Models
