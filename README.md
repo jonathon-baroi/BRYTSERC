@@ -8,3 +8,5 @@ Repository for the **BRYTSERC** dataset for speech emotion recognition.
 - **ExHuBERT**
 
 Run each file to reproduce results.
+
+Data was split into 60% (training), 20% (validation) and 20% (testing).
