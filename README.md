@@ -1,4 +1,4 @@
-Repository for the **BRYTSERC** dataset for speech emotion recognition.
+Repository for the **BDSERC** dataset for speech emotion recognition.
 
 ## Models
 - **CNN**
